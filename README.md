@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ahmetcnaltintas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmetcnaltintas" height="30" width="40" /></a>
-<a href="[[https://linkedin.com/in/ahmet can altıntaş](https://www.linkedin.com/in/ahmet-can-alt%C4%B1nta%C5%9F-320275284/)](https://www.linkedin.com/in/ahmet-can-alt%C4%B1nta%C5%9F-320275284/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bv5bQOtdiT3aGZQt8Ari6Eg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet can altıntaş" height="30" width="40" /></a>
+<a href="linkedin.com/in/ahmet-can-altıntaş-320275284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet can altıntaş" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmetcnal16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetcnal16" height="30" width="40" /></a>
 </p>
 
